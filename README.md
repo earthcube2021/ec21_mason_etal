@@ -8,7 +8,7 @@ This Jupyter notebook aims to explore methods towards characterizing noise in po
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mylesm19/Volcaninc_Activity_Detection/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_mason_etal/HEAD)
 
 
 
