@@ -1,4 +1,4 @@
-# Volcanic Activity Detection
+# Volcanic activity detection and noise characterization using machine learning
 Authors 
 Myles Mason, John Wenskovitch, D. Sarah Stamps, Joshua Robert Jones, Mike Dye
 
